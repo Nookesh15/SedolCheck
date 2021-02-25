@@ -1,0 +1,76 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SedolValidator", "SedolValidator\SedolValidator.csproj", "{73486910-FBEF-4043-96DF-18603184B026}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SedolValidatorInterfaces", "SedolValidatorInterfaces\SedolValidatorInterfaces.csproj", "{480E402F-69A5-4507-A3D6-3040A2B61311}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{5A970C17-1636-4329-B2CB-F974D0C88773}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SedolCheckerUI", "SedolCheckerUI\SedolCheckerUI.csproj", "{0ABA7085-D963-4A8A-A9BC-67A38209129C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SedolTest", "SedolTest\SedolTest.csproj", "{62D16E9F-D184-4CDF-8E1B-393068D74747}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73486910-FBEF-4043-96DF-18603184B026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73486910-FBEF-4043-96DF-18603184B026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73486910-FBEF-4043-96DF-18603184B026}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{73486910-FBEF-4043-96DF-18603184B026}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{73486910-FBEF-4043-96DF-18603184B026}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{73486910-FBEF-4043-96DF-18603184B026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73486910-FBEF-4043-96DF-18603184B026}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73486910-FBEF-4043-96DF-18603184B026}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{73486910-FBEF-4043-96DF-18603184B026}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{73486910-FBEF-4043-96DF-18603184B026}.Release|x86.ActiveCfg = Release|Any CPU
+		{480E402F-69A5-4507-A3D6-3040A2B61311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{480E402F-69A5-4507-A3D6-3040A2B61311}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{480E402F-69A5-4507-A3D6-3040A2B61311}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{480E402F-69A5-4507-A3D6-3040A2B61311}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{480E402F-69A5-4507-A3D6-3040A2B61311}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{480E402F-69A5-4507-A3D6-3040A2B61311}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{480E402F-69A5-4507-A3D6-3040A2B61311}.Release|Any CPU.Build.0 = Release|Any CPU
+		{480E402F-69A5-4507-A3D6-3040A2B61311}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{480E402F-69A5-4507-A3D6-3040A2B61311}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{480E402F-69A5-4507-A3D6-3040A2B61311}.Release|x86.ActiveCfg = Release|Any CPU
+		{0ABA7085-D963-4A8A-A9BC-67A38209129C}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{0ABA7085-D963-4A8A-A9BC-67A38209129C}.Debug|Mixed Platforms.ActiveCfg = Debug|x86
+		{0ABA7085-D963-4A8A-A9BC-67A38209129C}.Debug|Mixed Platforms.Build.0 = Debug|x86
+		{0ABA7085-D963-4A8A-A9BC-67A38209129C}.Debug|x86.ActiveCfg = Debug|x86
+		{0ABA7085-D963-4A8A-A9BC-67A38209129C}.Debug|x86.Build.0 = Debug|x86
+		{0ABA7085-D963-4A8A-A9BC-67A38209129C}.Release|Any CPU.ActiveCfg = Release|x86
+		{0ABA7085-D963-4A8A-A9BC-67A38209129C}.Release|Mixed Platforms.ActiveCfg = Release|x86
+		{0ABA7085-D963-4A8A-A9BC-67A38209129C}.Release|Mixed Platforms.Build.0 = Release|x86
+		{0ABA7085-D963-4A8A-A9BC-67A38209129C}.Release|x86.ActiveCfg = Release|x86
+		{0ABA7085-D963-4A8A-A9BC-67A38209129C}.Release|x86.Build.0 = Release|x86
+		{62D16E9F-D184-4CDF-8E1B-393068D74747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62D16E9F-D184-4CDF-8E1B-393068D74747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62D16E9F-D184-4CDF-8E1B-393068D74747}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{62D16E9F-D184-4CDF-8E1B-393068D74747}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{62D16E9F-D184-4CDF-8E1B-393068D74747}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{62D16E9F-D184-4CDF-8E1B-393068D74747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62D16E9F-D184-4CDF-8E1B-393068D74747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62D16E9F-D184-4CDF-8E1B-393068D74747}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{62D16E9F-D184-4CDF-8E1B-393068D74747}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{62D16E9F-D184-4CDF-8E1B-393068D74747}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3359FB15-1F8B-48AE-988C-0A78A078EE70}
+	EndGlobalSection
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = MarketDataChecker.vsmdi
+	EndGlobalSection
+EndGlobal

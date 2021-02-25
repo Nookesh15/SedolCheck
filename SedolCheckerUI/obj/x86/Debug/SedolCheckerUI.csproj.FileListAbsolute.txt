@@ -1,0 +1,13 @@
+C:\Users\Dithya\Desktop\SC\SedolCheck\SedolCheck\SedolCheckerUI\bin\Debug\SedolCheckerUI.exe.config
+C:\Users\Dithya\Desktop\SC\SedolCheck\SedolCheck\SedolCheckerUI\bin\Debug\SedolCheckerUI.exe
+C:\Users\Dithya\Desktop\SC\SedolCheck\SedolCheck\SedolCheckerUI\bin\Debug\SedolCheckerUI.pdb
+C:\Users\Dithya\Desktop\SC\SedolCheck\SedolCheck\SedolCheckerUI\bin\Debug\SedolValidator.dll
+C:\Users\Dithya\Desktop\SC\SedolCheck\SedolCheck\SedolCheckerUI\bin\Debug\SedolValidatorInterfaces.dll
+C:\Users\Dithya\Desktop\SC\SedolCheck\SedolCheck\SedolCheckerUI\bin\Debug\SedolValidatorInterfaces.pdb
+C:\Users\Dithya\Desktop\SC\SedolCheck\SedolCheck\SedolCheckerUI\bin\Debug\SedolValidator.pdb
+C:\Users\Dithya\Desktop\SC\SedolCheck\SedolCheck\SedolCheckerUI\obj\x86\Debug\SedolCheckerUI.csprojResolveAssemblyReference.cache
+C:\Users\Dithya\Desktop\SC\SedolCheck\SedolCheck\SedolCheckerUI\obj\x86\Debug\SedolCheckerUI.Properties.Resources.resources
+C:\Users\Dithya\Desktop\SC\SedolCheck\SedolCheck\SedolCheckerUI\obj\x86\Debug\SedolCheckerGUI.SedolChecker.resources
+C:\Users\Dithya\Desktop\SC\SedolCheck\SedolCheck\SedolCheckerUI\obj\x86\Debug\SedolCheckerUI.csproj.GenerateResource.Cache
+C:\Users\Dithya\Desktop\SC\SedolCheck\SedolCheck\SedolCheckerUI\obj\x86\Debug\SedolCheckerUI.exe
+C:\Users\Dithya\Desktop\SC\SedolCheck\SedolCheck\SedolCheckerUI\obj\x86\Debug\SedolCheckerUI.pdb
